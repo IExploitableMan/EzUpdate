@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "gg.dressedshulkers.patch.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dressedshulkers.refmap.json",
+  "mixins": [
+    "ContainerPlayerMixin",
+    "GuiInventoryMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
